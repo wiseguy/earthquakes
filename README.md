@@ -17,9 +17,9 @@ To run as a container
 
 Test
 ============================
-For local run - http://127.0.0.1:8080/earthquakes/subscribe/getAll
-For docker - http://127.0.0.1:3000/earthquakes/subscribe/getAll
-Response: {}
+- For local run - http://127.0.0.1:8080/earthquakes/subscribe/getAll
+- For docker - http://127.0.0.1:3000/earthquakes/subscribe/getAll
+- response: {}
 
 Usage
 ============================
@@ -32,6 +32,7 @@ Usage
 - To subscribe 
 - Post : http://localhost:3000/earthquakes/subscribe/set
 
+```javascript
 {
   "endpoint": "https://felt-requests-ontorsbua380.runkit.sh",
   "filters": [
@@ -41,5 +42,6 @@ Usage
     }
   ]
 }
+```
 
 
