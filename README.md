@@ -1,7 +1,8 @@
 # earthquakes
 
-To run locally make sure you have nodejs v12 installed
+To run locally make sure you must have node v16 installed
 =========================
+- npm install
 - npm start
 
 To run as a container
