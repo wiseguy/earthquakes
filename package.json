@@ -1,0 +1,26 @@
+{
+  "name": "earthquakes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiseguy/earthquakes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiseguy/earthquakes/issues"
+  },
+  "homepage": "https://github.com/wiseguy/earthquakes#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "fastify": "^3.18.1",
+    "uuid": "^8.3.2"
+  }
+}

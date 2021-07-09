@@ -1,0 +1,5 @@
+{
+    "sourceURL": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.geojson",
+    "intervalInSeconds": 60,
+    "receiverURL": "https://felt-requests-ontorsbua380.runkit.sh/"
+}
